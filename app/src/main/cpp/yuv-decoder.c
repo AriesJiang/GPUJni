@@ -118,5 +118,5 @@ JNIEXPORT void JNICALL Java_com_wow_video_gpuimage_util_NativeLibrary_YUVtoARBG(
 
 JNIEXPORT void JNICALL Java_com_wow_video_gpuimage_util_NativeLibrary_test(JNIEnv * env, jobject obj)
 {
-//LOGD("NativeLibrary_test run!!!");
+LOGD("NativeLibrary_test run!!!");
 }
